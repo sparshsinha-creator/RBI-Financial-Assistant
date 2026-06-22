@@ -1,0 +1,17 @@
+.env
+.venv/
+financial_ai_env/
+
+__pycache__/
+*.pyc
+
+test_key.py
+test_gemini.py
+list_models.py
+
+error.txt
+
+rbi_corpus.txt
+chunks.txt
+
+.vscode/
